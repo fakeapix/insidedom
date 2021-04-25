@@ -7,8 +7,7 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url",
-      "partners": []
+      "instagram": "george-instagram-url"
     },
     {
       "id": 2,
@@ -17,19 +16,7 @@
       "level": "23",
       "phone": "(808) 555 23 1234",
       "telegram": "janet-telegram-url",
-      "instagram": "janet-instagram-url",
-      "partners": [
-      {
-      "id": 1,
-      "name": "George Bluth",
-      "avatar": "https://reqres.in/img/faces/1-image.jpg",
-      "level": "1",
-      "phone": "(808) 555 01 11",
-      "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url",
-      "partners": []
-    }
-      ]
+      "instagram": "janet-instagram-url"
     },
     {
       "id": 3,
@@ -76,7 +63,8 @@
           "level": "1",
           "phone": "(808) 555 01 11",
           "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url"
+          "instagram": "george-instagram-url",
+          "partners": []
         },
         {
           "id": 6,
@@ -125,7 +113,8 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url"
+      "instagram": "george-instagram-url",
+      "partners": []
     },
     {
       "id": 6,
