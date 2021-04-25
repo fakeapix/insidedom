@@ -30,58 +30,9 @@
       "instagram": "emma-instagram-url",
       "email": "lindsey.stroud@gmail.com",
       "partners": [
-        {
-          "id": 4,
-          "name": "George Bluth",
-          "avatar": "https://reqres.in/img/faces/4-image.jpg",
-          "level": "1",
-          "phone": "(808) 555 01 11",
-          "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url",
-          "email": "lindsey.stroud@gmail.com",
-          "partners": [
-            {
-              "id": 7,
-              "name": "George Bluth",
-              "avatar": "https://reqres.in/img/faces/7-image.jpg",
-              "level": "1",
-              "phone": "(808) 555 01 11",
-              "telegram": "george-telegram-url",
-              "instagram": "george-instagram-url",
-              "email": "lindsey.stroud@gmail.com"
-            },
-            {
-              "id": 8,
-              "name": "George Bluth",
-              "avatar": "https://reqres.in/img/faces/7-image.jpg",
-              "level": "1",
-              "phone": "(808) 555 01 11",
-              "telegram": "george-telegram-url",
-              "instagram": "george-instagram-url",
-              "email": "lindsey.stroud@gmail.com"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "name": "George Bluth",
-          "avatar": "https://reqres.in/img/faces/5-image.jpg",
-          "level": "1",
-          "phone": "(808) 555 01 11",
-          "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url",
-          "email": "lindsey.stroud@gmail.com"
-        },
-        {
-          "id": 6,
-          "name": "George Bluth",
-          "avatar": "https://reqres.in/img/faces/6-image.jpg",
-          "level": "1",
-          "phone": "(808) 555 01 11",
-          "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url",
-          "email": "lindsey.stroud@gmail.com"
-        }
+        {"id": 4},
+        {"id": 5},
+        {"id": 6}
       ]
     },
     {
@@ -91,29 +42,11 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url",
+      "instagram": "",
       "email": "lindsey.stroud@gmail.com",
       "partners": [
-        {
-          "id": 7,
-          "name": "George Bluth",
-          "avatar": "https://reqres.in/img/faces/7-image.jpg",
-          "level": "1",
-          "phone": "(808) 555 01 11",
-          "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url",
-          "email": "lindsey.stroud@gmail.com"
-        },
-        {
-          "id": 8,
-          "name": "George Bluth",
-          "avatar": "https://reqres.in/img/faces/8-image.jpg",
-          "level": "1",
-          "phone": "(808) 555 01 11",
-          "telegram": "george-telegram-url",
-          "instagram": "george-instagram-url",
-          "email": "lindsey.stroud@gmail.com"
-        }
+        {"id": 7},
+        {"id": 8}
       ]
     },
     {
@@ -123,7 +56,6 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url",
       "email": "lindsey.stroud@gmail.com"
     },
     {
@@ -143,7 +75,7 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "instagram": "george-instagram-url",
+      "instagram": "emma-instagram-url",
       "email": "lindsey.stroud@gmail.com"
     },
     {
