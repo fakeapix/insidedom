@@ -56,7 +56,13 @@
       "level": "1",
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
-      "email": "lindsey.stroud@gmail.com"
+      "email": "lindsey.stroud@gmail.com",
+      "partners": [
+        {"id": 4},
+        {"id": 5},
+        {"id": 6},
+        {"id": 2}
+      ]
     },
     {
       "id": 6,
@@ -66,7 +72,14 @@
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
       "instagram": "george-instagram-url",
-      "email": "lindsey.stroud@gmail.com"
+      "email": "lindsey.stroud@gmail.com",
+      "partners": [
+        {"id": 1},
+        {"id": 2},
+        {"id": 5},
+        {"id": 7},
+        {"id": 8}
+      ]
     },
     {
       "id": 7,
@@ -86,7 +99,13 @@
       "phone": "(808) 555 01 11",
       "telegram": "george-telegram-url",
       "instagram": "george-instagram-url",
-      "email": "lindsey.stroud@gmail.com"
+      "email": "lindsey.stroud@gmail.com",
+      "partners": [
+        {"id": 3},
+        {"id": 2},
+        {"id": 4},
+        {"id": 6}
+      ]
     }
   ]
 }
